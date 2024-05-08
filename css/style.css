@@ -11,6 +11,7 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:#4d5ae5 ;
+    margin-right: 76px;
 
 }
 .std {
@@ -122,10 +123,26 @@ body{
     display: flex;
     width: 1158px;
     margin: 0 auto;
-    padding: 0.15px;
+    padding: 0 15px;
 
 }
 .header{
     border-bottom: 1px solid #e7e9fc;
-    padding: 0.15px;
+    padding: 0 15px;
+}
+.nav-container{
+    display: flex;
+    align-items: center;
+}
+.logo-list{
+    display: flex;
+    gap: 40px;
+}
+.logo-list li{
+    margin-right: 40px;
+}
+.address ul{
+    display: flex;
+    gap: 40px;
+    margin-right: 40px;
 }
