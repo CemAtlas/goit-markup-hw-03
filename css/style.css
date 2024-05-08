@@ -137,6 +137,7 @@ body{
 .logo-list{
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
 .logo-list li{
     margin-right: 40px;
