@@ -157,11 +157,14 @@ body{
 }
 .section-two{
     padding-top: 120px;
-    padding-bottom: 120px;
+        padding-bottom: 120px;
 }
+    
+    
 
 .section-two-li{
     width:calc(100%-72px)/4;
+    
 }
 .container{
     display: flex;
@@ -174,3 +177,11 @@ body{
     display: flex;
     align-items: center;
 }
+.section-two-ul{
+    display: flex;
+        gap: 24px;
+        margin-right: 24px;
+}
+
+    
+
