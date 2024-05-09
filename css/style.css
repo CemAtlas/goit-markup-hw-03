@@ -159,7 +159,7 @@ body{
     padding-top: 120px;
     padding-bottom: 120px;
 }
-.section-two-div ul{
+.container ul{
     display: flex;
     gap: 24px;
 }
