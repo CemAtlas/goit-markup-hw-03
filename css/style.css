@@ -103,9 +103,7 @@ body{
     letter-spacing: 0.02em;
 
 }
-.main-third{
-    background-color: #F4F4FD
-}
+
 .main-third-h{
     font-size: 36px;
     line-height: 1.11;
@@ -113,6 +111,7 @@ body{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;;
    
 }
 .main-third-li{
@@ -184,4 +183,19 @@ body{
 }
 
     
-
+.section-iki-baslik{
+    display: none;
+}
+img{
+    display: block;
+}
+.main-three{
+    background-color: #F4F4FD
+    
+}
+.main-three-li{
+    display: flex;
+    gap: 24px;
+    margin-right: 24px;
+    
+}
