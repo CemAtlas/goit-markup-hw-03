@@ -121,6 +121,7 @@ body{
 
 }
 .img-li{
+    border-radius: 0px 0px 4px 4px;
     background-color: #FFFFFF;
     
 }
@@ -217,5 +218,8 @@ img{
 .calisan-paragraf{
     text-align: center;
 
+}
+.calisan-div{
+    padding: 32px 0;
 }
 
