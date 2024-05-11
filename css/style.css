@@ -193,11 +193,12 @@ img{
     display: block;
 }
 .main-three{
+    padding: 120px 0;
     background-color: #F4F4FD
     
     
 }
-.main-three-li{
+.main-three-list{
     display: flex;
     gap: 24px;
     margin-right: 24px;
@@ -215,6 +216,6 @@ img{
 }
 .calisan-paragraf{
     text-align: center;
-    
+
 }
 
