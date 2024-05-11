@@ -222,4 +222,15 @@ img{
 .calisan-div{
     padding: 32px 0;
 }
+.main-four{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.main-four-ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    margin-right: 24px;
+    row-gap: 48px;
+}
 
