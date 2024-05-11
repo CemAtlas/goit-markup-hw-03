@@ -112,7 +112,8 @@ body{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    margin-bottom: 72px;;
+    margin-bottom: 72px;
+
    
 }
 .main-third-li{
@@ -194,6 +195,7 @@ img{
 .main-three{
     background-color: #F4F4FD
     
+    
 }
 .main-three-li{
     display: flex;
@@ -201,13 +203,4 @@ img{
     margin-right: 24px;
 
 }
-.section-uc-li{
-    padding-top: 32px;
-    padding-bottom: 32px;
 
-}
-.section-uc-baslik{
-    text-align: center;
-    margin-bottom: 8px;
-
-}
