@@ -13,6 +13,9 @@ body{
     text-transform: uppercase;
     color:#4d5ae5 ;
     margin-right: 76px;
+    display: inline-block;
+    margin-bottom: 16px;
+
 
 }
 .std {
@@ -126,14 +129,17 @@ body{
     
 }
 .footer-p{
+    max-width: 264px;
   line-height: 1.5;
     letter-spacing: 0.02em;
     color:#F4F4FD
+    
 }
 .footer-span{
     color: #f4f4fd;
 }
 .footer{
+    padding: 100px 0;
     background-color: #2e2f42;
 }
 
@@ -249,9 +255,7 @@ img{
 .main-four-li{
     
 }
-.main-four-img{
-width: calc(100%-48px)/3;
-}
+
 
 
 
