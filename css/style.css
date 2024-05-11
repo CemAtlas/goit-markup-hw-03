@@ -180,10 +180,11 @@ body{
     display: flex;
         gap: 24px;
         margin-right: 24px;
+        width: calc(100%-72px)/4;
 }
 
     
-.section-iki-baslik{
+.visually-hidden{
     display: none;
 }
 img{
@@ -197,5 +198,5 @@ img{
     display: flex;
     gap: 24px;
     margin-right: 24px;
-    
+
 }
