@@ -229,7 +229,7 @@ img{
 .main-four-ul{
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
+    column-gap: 24px;
     margin-right: 24px;
     row-gap: 48px;
 }
@@ -246,6 +246,9 @@ img{
 .our-portfolio{
     margin-bottom: 72px;
     
+}
+.main-four-li{
+    width: calc(100%-48px)/3;
 }
 
 
