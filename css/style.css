@@ -101,6 +101,7 @@ body{
 .main-s-paragraf{
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-align: center;
 
 }
 
@@ -198,5 +199,15 @@ img{
     display: flex;
     gap: 24px;
     margin-right: 24px;
+
+}
+.section-uc-li{
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+}
+.section-uc-baslik{
+    text-align: center;
+    margin-bottom: 8px;
 
 }
