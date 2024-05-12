@@ -13,8 +13,8 @@ body{
     text-transform: uppercase;
     color:#4d5ae5 ;
     margin-right: 76px;
-    
     margin-bottom: 16px;
+    display: inline-block;
 
 
 }
@@ -146,7 +146,7 @@ body{
     
 }
 .footer-span{
-    display: inline-block;
+    
     color: #f4f4fd;
 }
 .footer{
