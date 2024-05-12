@@ -13,7 +13,7 @@ body{
     text-transform: uppercase;
     color:#4d5ae5 ;
     margin-right: 76px;
-    display: inline-block;
+    
     margin-bottom: 16px;
 
 
@@ -254,6 +254,9 @@ img{
 }
 .main-four-li{
     
+}
+.footer a{
+    display: inline-block;
 }
 
 
