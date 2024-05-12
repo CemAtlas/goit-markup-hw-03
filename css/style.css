@@ -183,7 +183,7 @@ body{
     
 
 .section-two-li{
-   
+width: calc((100% - 72px) / 4);
     
 }
 .container{
