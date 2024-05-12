@@ -183,7 +183,7 @@ body{
     
 
 .section-two-li{
-    width:calc(100%-72px)/4;
+   
     
 }
 .container{
@@ -200,10 +200,10 @@ body{
 }
 .section-two-ul{
     display: flex;
-        gap: 24px;
-        margin-right: 24px;
-        width: calc(100%-72px)/4;
-        list-style-type: none;
+    gap: 24px;
+    margin-right: 24px;
+    list-style-type: none;
+       
 }
 
     
@@ -248,6 +248,7 @@ img{
 .main-four{
     padding-top: 120px;
     padding-bottom: 120px;
+    
 }
 .main-four-ul{
     display: flex;
@@ -256,6 +257,8 @@ img{
     margin-right: 24px;
     row-gap: 48px;
     list-style-type: none;
+    
+   
 }
 
 .main-four-div{
@@ -264,17 +267,27 @@ img{
     border-top: none;
     text-align: center;
     
+    
 }
 .our-portfolio{
     margin-bottom: 72px;
+
+    
+    
     
 }
 .main-four-li{
+    width: calc((100% - 48px) / 3);
+    
+    
     
 }
 .footer a{
     display: inline-block;
 }
+
+
+
 
 
 
