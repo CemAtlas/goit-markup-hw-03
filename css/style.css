@@ -146,6 +146,7 @@ body{
     
 }
 .footer-span{
+    display: inline-block;
     color: #f4f4fd;
 }
 .footer{
@@ -278,13 +279,8 @@ img{
 }
 .main-four-li{
 width: calc((100% - 48px) / 3);
-    
-    
-    
 }
-footer div a{
-    display: inline-block;
-}
+
 
 
 
