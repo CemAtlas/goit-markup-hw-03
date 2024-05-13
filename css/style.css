@@ -219,7 +219,11 @@ width: calc((100% - 72px) / 4);
 
     
 .visually-hidden{
-    display: none;
+    
+            visibility: hidden;
+            pointer-events: none;
+            position: absolute;
+        
 }
 img{
     display: block;
