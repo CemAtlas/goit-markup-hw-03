@@ -233,9 +233,7 @@ width: calc((100% - 72px) / 4);
         }
         
 
-img{
-    display: block;
-}
+
 .main-three{
      padding: 120px 0;
     background-color: #F4F4FD;
@@ -305,6 +303,7 @@ width: calc((100% - 48px) / 3);
 .footer-alt{
     padding: 100px 0;
         background-color: #2e2f42;
+        display: inline-block;
 }
 .header-logo-alt{
     font-family: 'Raleway', sans-serif;
