@@ -257,6 +257,7 @@ width: calc((100% - 72px) / 4);
     gap: 24px;
     margin-right: 24px;
     list-style-type: none;
+    width: calc((100% - 72px) / 4);
 
 }
 .calisan-container{
