@@ -310,6 +310,9 @@ width: calc((100% - 48px) / 3);
         background-color: #2e2f42;
         
         
+        
+        
+        
 }
 .logo-alt{
     
@@ -322,6 +325,11 @@ width: calc((100% - 48px) / 3);
         color: #4d5ae5;
         margin-right: 76px;
         margin-bottom: 16px;
+        position: relative;right: -190px;top: -25px;
+        display: inline-block;
+        
+        
+        
         
         
         
@@ -329,9 +337,7 @@ width: calc((100% - 48px) / 3);
 img{
     display: block;
 }
-.container a{
-    display: inline-block;
-}
+
 
 
 
