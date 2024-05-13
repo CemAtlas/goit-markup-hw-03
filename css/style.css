@@ -207,7 +207,7 @@ width: calc((100% - 72px) / 4);
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
-    display: inline-block;
+    display: block;
     
     
 }
@@ -335,10 +335,7 @@ width: calc((100% - 48px) / 3);
 img{
     display: block;
 }
-.konteyner{
-    display: flex;
-    margin: 0 auto;
-}
+
 
 
 
