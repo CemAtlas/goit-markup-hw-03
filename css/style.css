@@ -215,6 +215,7 @@ width: calc((100% - 72px) / 4);
 }
 .nav-container{
     display: flex;
+    align-items: center;
     
     
     
