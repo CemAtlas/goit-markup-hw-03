@@ -356,9 +356,10 @@ img{
 .header-alt-container{
     display: flex;
 }
-.footer-ek-class{
-  display: block;
+.footer-alt .container{
+    display: block;
 }
+
 
 
 
